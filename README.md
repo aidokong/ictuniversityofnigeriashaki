@@ -1,0 +1,2 @@
+# ictuniversityofnigeriashaki
+ict iniversity
