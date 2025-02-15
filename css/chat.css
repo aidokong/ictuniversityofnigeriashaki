@@ -1,0 +1,28 @@
+#departments {
+    position: absolute;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    padding: 10px;
+    width: 200px;
+    z-index: 1000;
+    overflow-y: scroll;
+  }
+  
+  #departments ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  #departments ul li {
+    margin-bottom: 10px;
+  }
+  
+  #departments ul li a {
+    color: #337ab7;
+    text-decoration: none;
+  }
+  
+  #departments ul li a:hover {
+    color: #23527c;
+  
